@@ -5,57 +5,88 @@
 ## Clone repos (Bringup)
 
 ```
-git clone https://github.com/Realme-GT-2-PRO/android_device_realme_ferrarri.git -b A14 device/realme/ferrarri
+git clone https://github.com/Realme-GT-2-PRO/device_realme_ferrarri.git device/realme/ferrarri
 ```
 ```
-git clone https://github.com/Realme-GT-2-PRO/android_device_oneplus_sm8450-common.git -b A14 device/oneplus/sm8450-common
+git clone https://github.com/Realme-GT-2-PRO/device_oneplus_sm8450-common.git device/oneplus/sm8450-common
 ```
 ```
-git clone https://gitlab.com/ram-unlok/android_vendor_realme_ferrarri.git -b A14 vendor/realme/ferrarri
+git clone https://gitlab.com/ram-unlok/proprietary_vendor_realme_ferrarri.git vendor/realme/ferrarri
 ```
 ```
-git clone https://gitlab.com/ram-unlok/android_vendor_oneplus_sm8450-common.git -b A14 vendor/oneplus/sm8450-common
-```
-```
-git clone https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450.git -b Machad3x kernel/oneplus/sm8450
-```
-```
-git clone https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450-modules.git -b Machad3x kernel/oneplus/sm8450-modules
-```
-```
-git clone https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450-devicetrees.git -b Machad3x kernel/oneplus/sm8450-devicetrees
+git clone https://gitlab.com/ram-unlok/proprietary_vendor_oneplus_sm8450-common.git vendor/oneplus/sm8450-common
 ```
 ```
 git clone https://github.com/Realme-GT-2-PRO/android_hardware_oplus.git -b A14 hardware/oplus
+```
+```
+git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450.git kernel/oneplus/sm8450
+```
+### OR 
+```
+git clone https://github.com/Machad3x/android_kernel_oneplus_sm8450.git kernel/oneplus/sm8450
+```
+```
+git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-modules.git kernel/oneplus/sm8450-modules
+```
+### OR 
+```
+git clone https://github.com/Machad3x/android_kernel_oneplus_sm8450-modules.git kernel/oneplus/sm8450-modules
+```
+```
+git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-devicetrees.git kernel/oneplus/sm8450-devicetrees
+```
+### OR 
+```
+git clone https://github.com/Machad3x/android_kernel_oneplus_sm8450-devicetrees.git kernel/oneplus/sm8450-devicetrees
+```
+```
+git clone https://gitlab.com/ram-unlok/proprietary_vendor_oplus_camera.git vendor/oplus/camera
 ```
 
 
 ## Clone repos (Bringup) Depth=1
 
 ```
-git clone --depth=1 https://github.com/Realme-GT-2-PRO/android_device_realme_ferrarri.git -b A14 device/realme/ferrarri
+git clone --depth=1 https://github.com/Realme-GT-2-PRO/device_realme_ferrarri.git device/realme/ferrarri
 ```
 ```
-git clone --depth=1 https://github.com/Realme-GT-2-PRO/android_device_oneplus_sm8450-common.git -b A14 device/oneplus/sm8450-common
+git clone --depth=1 https://github.com/Realme-GT-2-PRO/device_oneplus_sm8450-common.git device/oneplus/sm8450-common
 ```
 ```
-git clone --depth=1 https://gitlab.com/ram-unlok/android_vendor_realme_ferrarri.git -b A14 vendor/realme/ferrarri
+git clone --depth=1 https://gitlab.com/ram-unlok/proprietary_vendor_realme_ferrarri.git vendor/realme/ferrarri
 ```
 ```
-git clone --depth=1 https://gitlab.com/ram-unlok/android_vendor_oneplus_sm8450-common.git -b A14 vendor/oneplus/sm8450-common
-```
-```
-git clone --depth=1 https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450.git -b Machad3x kernel/oneplus/sm8450
-```
-```
-git clone --depth=1 https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450-modules.git -b Machad3x kernel/oneplus/sm8450-modules
-```
-```
-git clone --depth=1 https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450-devicetrees.git -b Machad3x kernel/oneplus/sm8450-devicetrees
+git clone --depth=1 https://gitlab.com/ram-unlok/proprietary_vendor_oneplus_sm8450-common.git vendor/oneplus/sm8450-common
 ```
 ```
 git clone --depth=1 https://github.com/Realme-GT-2-PRO/android_hardware_oplus.git -b A14 hardware/oplus
 ```
+```
+git clone --depth=1 https://github.com/pjgowtham/android_kernel_oneplus_sm8450.git kernel/oneplus/sm8450
+```
+### OR 
+```
+git clone --depth=1 https://github.com/Machad3x/android_kernel_oneplus_sm8450.git kernel/oneplus/sm8450
+```
+```
+git clone --depth=1 https://github.com/pjgowtham/android_kernel_oneplus_sm8450-modules.git kernel/oneplus/sm8450-modules
+```
+### OR 
+```
+git clone --depth=1 https://github.com/Machad3x/android_kernel_oneplus_sm8450-modules.git kernel/oneplus/sm8450-modules
+```
+```
+git clone --depth=1 https://github.com/pjgowtham/android_kernel_oneplus_sm8450-devicetrees.git kernel/oneplus/sm8450-devicetrees
+```
+### OR 
+```
+git clone --depth=1 https://github.com/Machad3x/android_kernel_oneplus_sm8450-devicetrees.git kernel/oneplus/sm8450-devicetrees
+```
+```
+git clone --depth=1 https://gitlab.com/ram-unlok/proprietary_vendor_oplus_camera.git vendor/oplus/camera
+```
+
 
 - To Update trees which were cloned with depth=1 use below
 
