@@ -5,19 +5,19 @@
 ## Clone repos (Bringup)
 
 ```
-git clone https://github.com/Realme-GT-2-PRO/device_realme_ferrarri.git device/realme/ferrarri
+git clone https://github.com/Realme-GT-2-PRO/device_realme_ferrarri.git -b blaze device/realme/ferrarri
 ```
 ```
-git clone https://github.com/Realme-GT-2-PRO/device_oneplus_sm8450-common.git device/oneplus/sm8450-common
+git clone https://github.com/Realme-GT-2-PRO/device_oneplus_sm8450-common.git -b blaze device/oneplus/sm8450-common
 ```
 ```
-git clone https://gitlab.com/ram-unlok/proprietary_vendor_realme_ferrarri.git vendor/realme/ferrarri
+git clone https://gitlab.com/ram-unlok/proprietary_vendor_realme_ferrarri.git -b rebase vendor/realme/ferrarri
 ```
 ```
-git clone https://gitlab.com/ram-unlok/proprietary_vendor_oneplus_sm8450-common.git vendor/oneplus/sm8450-common
+git clone https://gitlab.com/ram-unlok/proprietary_vendor_oneplus_sm8450-common.git -b rebase vendor/oneplus/sm8450-common
 ```
 ```
-git clone https://github.com/Realme-GT-2-PRO/android_hardware_oplus.git -b A14 hardware/oplus
+git clone https://github.com/Realme-GT-2-PRO/android_hardware_oplus.git -b TEST hardware/oplus
 ```
 ```
 git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450.git kernel/oneplus/sm8450
