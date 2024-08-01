@@ -26,6 +26,10 @@ git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450.git kernel/
 ```
 git clone https://github.com/Machad3x/android_kernel_oneplus_sm8450.git -b test kernel/oneplus/sm8450
 ```
+### OR 
+```
+git clone https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450.git kernel/oneplus/sm8450
+```
 ```
 git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-modules.git kernel/oneplus/sm8450-modules
 ```
@@ -33,12 +37,20 @@ git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-modules.git
 ```
 git clone https://github.com/Machad3x/android_kernel_oneplus_sm8450-modules.git -b test kernel/oneplus/sm8450-modules
 ```
+### OR 
+```
+git clone https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450-modules.git -b Rebase kernel/oneplus/sm8450-modules
+```
 ```
 git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-devicetrees.git kernel/oneplus/sm8450-devicetrees
 ```
 ### OR 
 ```
 git clone https://github.com/Machad3x/android_kernel_oneplus_sm8450-devicetrees.git -b test kernel/oneplus/sm8450-devicetrees
+```
+### OR 
+```
+git clone https://github.com/Realme-GT-2-PRO/android_kernel_oneplus_sm8450-devicetrees.git kernel/oneplus/sm8450-devicetrees
 ```
 ```
 git clone https://gitlab.com/ram-unlok/proprietary_vendor_oplus_camera.git vendor/oplus/camera
